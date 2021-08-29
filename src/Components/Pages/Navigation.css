@@ -1,0 +1,53 @@
+
+.Nav-container {
+    padding: 30px 5px;
+    margin: 0px 0px 20px 0px;
+    background-color: white !important;
+    width: 70%;
+}
+
+.colum_nav {
+    background-color: white!important;
+    padding: 10px 5px;
+}
+
+.del_logo {
+    width: 91px;
+    height: 48px;
+    background-color: white;
+}
+.search {
+   margin-right: -20px;
+   z-index: 5; 
+   background-color: white;
+   
+}
+.bi-search {
+    background-color: white;
+}
+::placeholder {
+    color: #b9b3b3;
+}
+
+.icon_thumbnail {
+    width: 30px;
+    height: 30px;
+    margin: 5px 10px;
+    background-color: white;
+
+}
+div > a {
+    background-color: white;
+}
+
+.Profile_thumbnail {
+    vertical-align: middle;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 5px 10px;
+    object-fit: cover;
+  }
+  input::placeholder {
+      padding-left: 10px;
+  }

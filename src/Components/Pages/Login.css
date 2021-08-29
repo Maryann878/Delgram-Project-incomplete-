@@ -1,0 +1,40 @@
+* {
+    background-color: #E5E5E5;
+}
+
+.section {
+    margin: 20px 0px;
+ 
+}
+.Sign_Up {
+    border: 2px solid rgb(171, 171, 171);
+    max-width: 450px;
+    border-radius: 10px;
+    padding: 20px 20px;
+}
+.img_logo {
+    width: 120px;
+}
+
+.btn {
+    width: 100% !important;
+    border-radius: 5px;
+    margin: 15px 0;
+    padding: 15px 0px;
+}
+.btn-account {
+    padding: 25px 0px !important;
+   width: 75% !important;
+}
+.btn_google {
+    max-width: 480px;
+
+}
+.google_img {
+    width: 120px;
+}
+
+.signup_img{
+    height: 600px;
+    width: 450px;
+}

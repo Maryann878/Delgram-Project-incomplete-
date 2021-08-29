@@ -1,0 +1,35 @@
+.ProfilePsot-container {
+    padding: 20px 10px;
+    width: 60%;
+}
+.text {
+    text-align: justify;
+}
+.feed_img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.users_post_name {
+    margin-right: 10px;
+}
+.img_upload {
+    border-radius: 10px;
+}
+
+.img-responsive {
+    margin-top: 15px;
+    border-radius: 20px
+}
+
+.text_time {
+    text-align: left;
+}
+
+.feed_icon {
+    width: 25px;
+    height: 25px;
+    margin: 5px 10px;
+    
+}

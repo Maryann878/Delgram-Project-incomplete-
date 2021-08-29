@@ -1,0 +1,27 @@
+.Profile-container {
+    padding: 20px 10px;
+    width: 70%;
+}
+.profile_pic_container{
+    height: 400px;
+}
+.img-responsive {
+    border-radius: 0 !important;
+    margin-top: 0px;
+}
+.profile_img{
+    margin-top: -100px;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 3px solid white;
+    object-fit: cover;
+}
+
+h5 {
+    text-align: left;
+}
+.table {
+    margin: auto;
+    width: 60%;
+}
